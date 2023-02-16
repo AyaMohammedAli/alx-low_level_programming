@@ -1,9 +1,11 @@
 #include <stdio.h>
-int puts(void){
-  return "Programming is like building a multilingual puzzle\n"
-}
+/**
+ * main - Entry point
+ *
+ * Return: always 0
+ */
 int main(void)
 {
-    puts()
-    return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
