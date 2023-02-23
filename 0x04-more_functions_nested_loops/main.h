@@ -12,5 +12,9 @@ int _putchar(char c);
  * Return: 1 or 0
  */
 int _isupper(int  c);
-
+/**
+ *_isdigit -check number is digit.
+ * Return 1 if digit 0 otherwise.
+ */
+int _isdigit(int c);
 #endif
