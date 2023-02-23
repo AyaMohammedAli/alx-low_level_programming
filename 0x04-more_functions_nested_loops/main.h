@@ -29,10 +29,20 @@ int mul(int a,int b);
  * print_numbers - prints the numbers
  *
  */
+void more_numbers(void);
+/**
+ * print_numbers - prints the numbers
+ *
+ */
 void print_numbers(void);
 /**
  * print_numbers - prints the numbers
  *
  */
 void print_most_numbers(void);
+/**
+ * print_numbers - prints the numbers
+ *
+ */
+void more_numbers(void);
 #endif
