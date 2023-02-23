@@ -77,4 +77,10 @@ void print_to_98(int n);
  *
  */
 void print_times_table(int n);
+/**
+ * print_times_table - times table function
+ * @n: integer to return
+ *
+ */
+void print_times_table(int n)
 #endif
