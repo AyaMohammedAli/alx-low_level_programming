@@ -25,4 +25,9 @@ int _isdigit(int c);
  * Return: multiplay of both integers
  */
 int mul(int a,int b);
+/**
+ *print_numbers 
+ * return 0
+*/
+void print_numbers(void);
 #endif
