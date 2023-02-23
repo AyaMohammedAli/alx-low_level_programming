@@ -31,7 +31,7 @@ int mul(int a,int b);
  */
 void print_numbers(void);
 /**
- * print_numbers - prints the numbers execpt 2,4
+ * print_numbers - prints the numbers
  *
  */
 void print_most_numbers(void);
