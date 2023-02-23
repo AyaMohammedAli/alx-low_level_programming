@@ -26,8 +26,8 @@ int _isdigit(int c);
  */
 int mul(int a,int b);
 /**
- *print_numbers 
- * return 0
-*/
+ * print_numbers - prints the numbers
+ *
+ */
 void print_numbers(void);
 #endif
