@@ -17,4 +17,12 @@ int _isupper(int  c);
  * Return 1 if digit 0 otherwise.
  */
 int _isdigit(int c);
+/**
+ * mul - adding it up
+ * @a: first integer
+ * @b: second integer
+ *
+ * Return: multiplay of both integers
+ */
+int mul(int a,int b);
 #endif
