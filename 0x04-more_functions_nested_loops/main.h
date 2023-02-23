@@ -69,8 +69,6 @@ void print_square(int size);
  * @size: size of triangle
  */
 void print_triangle(int size);
-#include "holberton.h"
-
 /**
  * print_number - prints number
  *
