@@ -30,4 +30,9 @@ int mul(int a,int b);
  *
  */
 void print_numbers(void);
+/**
+ * print_numbers - prints the numbers execpt 2,4
+ *
+ */
+void print_most_numbers(void);
 #endif
