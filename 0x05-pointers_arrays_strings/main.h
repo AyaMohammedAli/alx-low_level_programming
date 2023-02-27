@@ -8,7 +8,8 @@
 int _putchar(char c);
 /**
 * reset_to_98 - update integer pointer n value to 98 
-* Return :0
+* @n:pointer integer
+*
 */
 void reset_to_98(int *n);
 #endif
