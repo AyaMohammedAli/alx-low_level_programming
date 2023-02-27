@@ -42,5 +42,10 @@ void print_rev(char *s);
  *
  * @s: string to print
  */
-void rev_string(char *s)
+void rev_string(char *s);
+/**
+ * puts2 - puts string twice
+ *
+ * @str: string to put twice
+ */void puts2(char *str);
 #endif
