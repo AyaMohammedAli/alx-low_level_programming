@@ -55,4 +55,11 @@ void rev_string(char *s);
  * @str: string to split
  */
 void puts_half(char *str);
+/**
+ * print_array - prints array
+ * @a: pointer of array
+ * @n: how many times to prints
+ *
+ */
+void print_array(int *a, int n);
 #endif
