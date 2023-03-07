@@ -1,6 +1,12 @@
 #ifndef _HOLBERTON_H_
 #define _HOLBERTON_H_
 /**
+ * print_diagsums - prints diagonal summaries
+ * @a: array to use
+ * @size: size of diagonal
+ */
+void print_diagsums(int *a, int size);
+/**
  * _putchar - writes the character c to std
  * @c: parameter to compare
  * Return: 1 or 0
