@@ -45,4 +45,10 @@ char *_strpbrk(char *s, char *accept);
  * Return: returns string at starting sub or null
  */
 char *_strstr(char *haystack, char *needle);
+/**
+ * print_chessboard - board to print
+ * @a: prints things
+ * Return: returns crap
+ */
+void print_chessboard(char (*a)[8]);
 #endif
