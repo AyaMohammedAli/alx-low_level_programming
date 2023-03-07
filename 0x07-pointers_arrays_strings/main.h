@@ -1,6 +1,12 @@
 #ifndef _HOLBERTON_H_
 #define _HOLBERTON_H_
 /**
+ * set_string -  sets a string
+ * @s: string to set
+ * @to: value to set to
+ */
+void set_string(char **s, char *to);
+/**
  * print_diagsums - prints diagonal summaries
  * @a: array to use
  * @size: size of diagonal
