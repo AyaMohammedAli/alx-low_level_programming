@@ -1,5 +1,12 @@
-#ifndef _HOLBERTON_H_
-#define _HOLBERTON_H_
+#ifndef _MAIN_H_
+#define _MAIN_H_
+/**
+ * _pow_recursion - gives power of int
+ * @x: integer to power
+ * @y: power to do
+ * Return: integer value
+ */
+int _pow_recursion(int x, int y);
 /**
  * factorial - gives factorial of number
  * @n: number to use
