@@ -1,6 +1,13 @@
 #ifndef _MAIN_H_
 #define _MAIN_H_
 /**
+ * helper - helps decide if i'm right
+ * @i: integer to guess
+ * @n: integer to get root of
+ * Return: value of root
+ */
+int helper(int i, int n);
+/**
  * _pow_recursion - gives power of int
  * @x: integer to power
  * @y: power to do
