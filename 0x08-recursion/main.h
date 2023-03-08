@@ -13,6 +13,11 @@ void set_string(char **s, char *to);
  */
 void print_diagsums(int *a, int size);
 /**
+ * _print_rev_recursion - prints in reverse recurse
+ * @s: string to recurse
+ */
+void _print_rev_recursion(char *s);
+/**
  * _putchar - writes the character c to std
  * @c: parameter to compare
  * Return: 1 or 0
