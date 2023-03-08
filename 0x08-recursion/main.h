@@ -1,6 +1,12 @@
 #ifndef _MAIN_H_
 #define _MAIN_H_
 /**
+ * is_prime_number - is prime or not
+ * @n: integer to compare
+ * Return: boolean
+ */
+int is_prime_number(int n);
+/**
  * helper - helps decide if i'm right
  * @i: integer to guess
  * @n: integer to get root of
