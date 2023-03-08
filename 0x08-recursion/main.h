@@ -1,6 +1,12 @@
 #ifndef _HOLBERTON_H_
 #define _HOLBERTON_H_
 /**
+ * _strlen_recursion - length of string
+ * @s: string to count
+ * Return: length of string
+ */
+int _strlen_recursion(char *s);
+/**
  * set_string -  sets a string
  * @s: string to set
  * @to: value to set to
